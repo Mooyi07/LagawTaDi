@@ -59,7 +59,7 @@ Review
 ## 🛠️ Installation
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/LagawTaDi.git
+git clone https://github.com/Mooyi07/LagawTaDi.git
 
 # Go into project folder
 cd LagawTaDi/frontend
@@ -94,3 +94,4 @@ This project is licensed under the **MIT License**.
 
 ### ❤️ Built with pride in Bacolod City
 > “LagawTaDi — Explore. Discover. Experience Bacolod.”
+
